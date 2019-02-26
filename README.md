@@ -1,5 +1,6 @@
 # Psychic-Game
 Homework Assignment #3
+<<<<<<< HEAD
 
 1. The computer will randomly populate a letter
 2. User must guess what letter the computer has populated
@@ -11,3 +12,5 @@ Homework Assignment #3
 
 
 
+=======
+>>>>>>> 2bc46f16be3c9da3e5bbad1dda86291a5a9decec
