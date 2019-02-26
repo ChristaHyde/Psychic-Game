@@ -1,5 +1,5 @@
 # Psychic-Game
-Homework #3
+Homework Assignment #3
 
 1. The computer will randomly populate a letter
 2. User must guess what letter the computer has populated
@@ -8,5 +8,6 @@ Homework #3
 5. After a loss is tallied, the game starts over with clearing all previously guessed     letters and adding 9 to the guesses remaining
 6. If the user guesses the correct letter before the 9 guesses is up then a win will      be tallied
 7. After a win is tallied, the game starts over with clearing all previously guessed      letters and adding 9 to the guesses remaining 
+
 
 
